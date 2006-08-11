@@ -1,8 +1,0 @@
-libxdg-vfs-client
-=================
-
-C-client library for xdg-vfs
-
-
-(for examples see the 'tests'-directory)
-
